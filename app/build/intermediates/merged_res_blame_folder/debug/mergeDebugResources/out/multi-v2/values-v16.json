@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mardikh.android_nested_recycler_view.app-mergeDebugResources-29:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/.gradle/caches/9.0-milestone-1/transforms/6660c981038425b9e78a3a4979864ebf/transformed/appcompat-1.7.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
